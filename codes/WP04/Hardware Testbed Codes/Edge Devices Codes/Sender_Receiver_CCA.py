@@ -63,7 +63,7 @@ SOFTWARE REQUIREMENTS:
    - ffmpeg/ffplay (for video visualization on receiver)
 
 Publication Related DOIs: 
-   -(10.1109/ACCESS.2025.3626798 and 10.1109/HONET67928.2025.11318504)
+   - (10.1109/ACCESS.2025.3626798 and 10.1109/HONET67928.2025.11318504)
 
 ================================================================================
 """
